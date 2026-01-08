@@ -1,0 +1,11 @@
+.success-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.success-container h1 {
+  color: #4caf50;
+  font-size: 32px;
+}
